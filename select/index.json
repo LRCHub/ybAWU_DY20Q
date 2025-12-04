@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "くりてぃかる♡ぷりちー",
+  "base_artist": "iLiFE!",
+  "createdAt": "2025-12-04T04:56:03.388256Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くりてぃかる♡ぷりちー",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_くりてぃかる♡ぷりちー_iLiFE!.txt"
+    }
+  ]
+}
